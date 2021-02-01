@@ -1,0 +1,13 @@
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\bin\Debug\netcoreapp3.1\BlockbusterMovieLab.exe
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\bin\Debug\netcoreapp3.1\BlockbusterMovieLab.deps.json
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\bin\Debug\netcoreapp3.1\BlockbusterMovieLab.runtimeconfig.json
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\bin\Debug\netcoreapp3.1\BlockbusterMovieLab.runtimeconfig.dev.json
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\bin\Debug\netcoreapp3.1\BlockbusterMovieLab.dll
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\bin\Debug\netcoreapp3.1\BlockbusterMovieLab.pdb
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\obj\Debug\netcoreapp3.1\BlockbusterMovieLab.csprojAssemblyReference.cache
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\obj\Debug\netcoreapp3.1\BlockbusterMovieLab.AssemblyInfoInputs.cache
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\obj\Debug\netcoreapp3.1\BlockbusterMovieLab.AssemblyInfo.cs
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\obj\Debug\netcoreapp3.1\BlockbusterMovieLab.csproj.CoreCompileInputs.cache
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\obj\Debug\netcoreapp3.1\BlockbusterMovieLab.dll
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\obj\Debug\netcoreapp3.1\BlockbusterMovieLab.pdb
+C:\Users\17dor\Desktop\GC Slns\Blockbuster\BlockbusterMovieLab\obj\Debug\netcoreapp3.1\BlockbusterMovieLab.genruntimeconfig.cache
